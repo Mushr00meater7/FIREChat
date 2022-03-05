@@ -1,0 +1,19 @@
+#messages {
+  border: 0.5vw solid rgb(33, 140, 182);
+  padding: 1vw;
+  background-color: rgb(33, 140, 182);
+  max-width: 80%;
+  min-width: fit-content;
+  margin-top: 2vw;
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 4px rgba(128, 209, 247, 0.596);
+}
+.sender {
+  color: rgb(0, 0, 0);
+  text-shadow: 1px 1px 0px red;
+  display: inline-block;
+}
+.mess {
+  display: inline-block;
+  position: absolute;
+}
